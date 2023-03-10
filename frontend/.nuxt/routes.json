@@ -1,0 +1,51 @@
+[
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "/var/www/html/enstead/blog/frontend/pages/login.vue",
+    "chunkName": "pages/login",
+    "_name": "_a5f9492c"
+  },
+  {
+    "name": "posts",
+    "path": "/posts",
+    "component": "/var/www/html/enstead/blog/frontend/pages/posts.vue",
+    "chunkName": "pages/posts",
+    "_name": "_e828ba58"
+  },
+  {
+    "name": "register",
+    "path": "/register",
+    "component": "/var/www/html/enstead/blog/frontend/pages/register.vue",
+    "chunkName": "pages/register",
+    "_name": "_77fc0d32"
+  },
+  {
+    "name": "post-add",
+    "path": "/post/add",
+    "component": "/var/www/html/enstead/blog/frontend/pages/post/add.vue",
+    "chunkName": "pages/post/add",
+    "_name": "_f6ed447e"
+  },
+  {
+    "name": "post-edit-id",
+    "path": "/post/edit/:id?",
+    "component": "/var/www/html/enstead/blog/frontend/pages/post/edit/_id.vue",
+    "chunkName": "pages/post/edit/_id",
+    "_name": "_053af245"
+  },
+  {
+    "name": "post-id",
+    "path": "/post/:id?",
+    "component": "/var/www/html/enstead/blog/frontend/pages/post/_id.vue",
+    "chunkName": "pages/post/_id",
+    "_name": "_2345225a"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/var/www/html/enstead/blog/frontend/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_39488f5a"
+  }
+]
